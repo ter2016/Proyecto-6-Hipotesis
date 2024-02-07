@@ -12,9 +12,10 @@ En este proyecto, Se busca obtener:
     - Generacion de Histograma.
     - Mapas de calor.
     - Pivot Tables.
+
     
 ## Instrucciones de uso:
-El archivo .pbi es el dashboard del proyecto, este podras abrirlo mediante la herramienta de Power BI.
+El archivo .pbi es el dashboard del proyecto, estara disponible en el enlace del apartado de Archivos y Enlaces debajo, al descargarlo podras abrirlo mediante la herramienta de Power BI.
 Los datos originales podras encontrarlos en Google Cloud.
 
 
@@ -34,6 +35,7 @@ Se trabajo con una base de datos con 3 tablas :
   - track_in_spotify. Informacion de basica de las canciones en la plataforma.
   - track_technical_info. Informacion tecnica de las canciones en la plataforma.
 
+
 ## Herramientas utilizadas.
   - BigQuery (SQL)
   - Power BI.
@@ -41,13 +43,13 @@ Se trabajo con una base de datos con 3 tablas :
     
  ## Imagenes de Resultados:
  ### Dashboard general.
- ![](https://github.com/ter2016/Proyecto-3-Hipotesis/blob/main/Imgs/D_Contexto.jpg)
+ ![](https://github.com/ter2016/Proyecto-6-Tendencias/blob/main/imgs/D_Contexto.jpg)
  
- ![](https://github.com/ter2016/Proyecto-3-Hipotesis/blob/main/Imgs/D_Users.jpg)
+ ![](https://github.com/ter2016/Proyecto-6-Tendencias/blob/main/imgs/D_Users.jpg)
 
- ![](https://github.com/ter2016/Proyecto-3-Hipotesis/blob/main/Imgs/D_Stations_usage.jpg)
+ ![](https://github.com/ter2016/Proyecto-6-Tendencias/blob/main/imgs/D_Stations_usage.jpg)
 
- ![](https://github.com/ter2016/Proyecto-3-Hipotesis/blob/main/Imgs/D_Stations_capacity.jpg)
+ ![](https://github.com/ter2016/Proyecto-6-Tendencias/blob/main/imgs/D_Stations_capacity.jpg)
 
 
 ## Archivos y Links de acceso
