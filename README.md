@@ -53,8 +53,6 @@ Se trabajo con una base de datos con 3 tablas :
 
 
 ## Archivos y Links de acceso
-  - Repositorio:
-    **PBI_Dashboard.pbix** https://comunidadxamarin-my.sharepoint.com/:f:/g/personal/tere_comunidadxamarin_onmicrosoft_com/ElwRcqsdzgRFmyKlFAN7SVUBZnMPPhTVtjhK6_yUmSawQA?e=Ei5ph1
-    
   - Externo:
-    **Datos Originales**  https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-citi-bike?project=data-sandbox-319716
+    - **Datos Originales**  https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-citi-bike?project=data-sandbox-319716
+    - **PBI_Dashboard.pbix** https://comunidadxamarin-my.sharepoint.com/:f:/g/personal/tere_comunidadxamarin_onmicrosoft_com/ElwRcqsdzgRFmyKlFAN7SVUBZnMPPhTVtjhK6_yUmSawQA?e=Ei5ph1
